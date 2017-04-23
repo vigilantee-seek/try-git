@@ -17,3 +17,5 @@ and push to the corresponding branch in your folked repo.
 
 ## Rebase Branch
 This line is for merge conflict
+
+There is need for you to practice rebase remote branches.
