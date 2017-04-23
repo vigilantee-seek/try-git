@@ -22,5 +22,3 @@ Merge branch ```merge``` to ```master```, be sure to deal with conflicts
 
 Rebase the branch ```rebase``` to ```master```. Be sure to ensure that the commits in
 ```master``` follows the commits in ```rebase```.
-This line is for merge conflict
-
