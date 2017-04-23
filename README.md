@@ -16,3 +16,4 @@ Checkout to ```merge-commit``` branch, use ```git rebase``` to merge the three c
 and push to the corresponding branch in your folked repo.
 
 ## Rebase Branch
+This line is for merge conflict
