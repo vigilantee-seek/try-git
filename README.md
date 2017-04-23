@@ -15,6 +15,9 @@ Use ```git amend``` to modify commit message, and then push to your repo.
 Checkout to ```merge-commit``` branch, use ```git rebase``` to merge the three commit to one,
 and push to the corresponding branch in your folked repo.
 
+## Merge branch
+Merge branch ```merge``` to ```master```, be sure to deal with conflicts
+
 ## Rebase Branch
 Rebase the branch ```rebase``` to ```master```. Be sure to ensure that the commits in
 ```master``` follows the commits in ```rebase```.
